@@ -73,3 +73,9 @@ Some important future directions for our system are -
     - Office Hour information
     - Contact information of other students working with that Professor
 
+# Screenshots
+#### Landing Page
+![N|Solid](https://github.com/shauryr/findviser/blob/master/image%20(1).png)
+#### Search Results
+![N|Solid](https://github.com/shauryr/findviser/blob/master/image.png)
+
