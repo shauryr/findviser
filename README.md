@@ -1,3 +1,4 @@
+![N|Solid](https://github.com/shauryr/findviser/blob/master/logo_fv.png)
 # FindViser
 ___
 ![N|Solid](https://watsonidenti-tee.resourceammirati.com/images/powered-by-ibm-watson.png)
